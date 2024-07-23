@@ -12,5 +12,4 @@ Hello! I'm Emmanuel 👋 a data scientist in training. I graduated from the Fede
 - 
 
 ### Feel free to write me anytime ✍️ 
-> _"Mankind's greatest achievements have come about by talking, and its greatest failures by not talking."_
-- Stephen Hawking
+> _"Mankind's greatest achievements have come about by talking, and its greatest failures by not talking."_ - Stephen Hawking
