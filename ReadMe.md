@@ -2,7 +2,8 @@
 Hello! I'm Emmanuel 👋 a data scientist in training. I graduated from the Federal University of Rio de Janeiro, with a master's in Neurosciences. I am exploring new technologies to contribute to quality assurance solutions.
 
 ### 👨‍💻 Tech Stack:
-- Programing languages: Python and JavaScript 
+- Programing languages: Python, JavaScript
+- Automation Testing: Cypress 
 - Cloud computing: Google Cloud, MongoDB and MySQL
 - Data manipulation: NumPy, Matplotlib and Pandas.
 - Agile methods: Scrum and Kanban
