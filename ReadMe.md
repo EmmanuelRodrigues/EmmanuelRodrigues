@@ -1,5 +1,5 @@
 ### About Me:
-Hello! I'm Emmanuel 👋 a data scientist in training. I graduated from the Federal University of Rio de Janeiro, with a master's in Neurosciences. I am exploring new technologies to contribute to quality assurance solutions.
+Hello! I'm Emmanuel 👋 a scientist in training. I graduated from the Federal University of Rio de Janeiro, with a master's in Neurosciences. Meanwhile, I am exploring new technologies to contribute to quality assurance solutions.
 
 ### 👨‍💻 Tech Stack:
 - Programing languages: Python, JavaScript
