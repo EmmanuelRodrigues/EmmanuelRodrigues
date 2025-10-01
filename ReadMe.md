@@ -3,8 +3,8 @@ Hi there! I'm Emmanuel 👋 I'm a Neuroscientist who started exploring tech tool
 
 ### 👨‍💻 Tech Stack:
 - Programing languages: Python, JavaScript
-- Automation Testing: Cypress 
-- Cloud computing: Google Cloud, MongoDB and MySQL
+- Automation Testing: Cypress, Robot Framework
+- Cloud computing: MySQL
 - Data manipulation: NumPy, Matplotlib and Pandas.
 - Agile methods: Scrum and Kanban
 
