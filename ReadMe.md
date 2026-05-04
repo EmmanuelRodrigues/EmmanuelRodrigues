@@ -2,12 +2,19 @@
 Hi there! I'm Emmanuel 👋 A professional in career transition, migrating to the area of ​​Software Quality Assurance (QA), with a solid analytical foundation built throughout my academic training in Neuroscience.
 
 ### 👨‍💻 Tech Stack:
+
 ●    Data visualization: Matplotlib, Seaborn.
+
 ●    Data manipulation: NumPy, Matplotlib and Pandas.
+
 ●    Web/API automation testing: Cypress (javascript), Robot Framework (Python), Selenium.
+
 ●    Mobile automation testing: Robot Framework 
+
 ●    API testing: Postman
+
 ●    Programing languages: Python, SQL, Javascript
+
 ●    CI integration: GitHub Actions
 
 ### 💬 Socials:
